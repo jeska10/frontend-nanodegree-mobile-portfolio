@@ -527,7 +527,6 @@ function updatePositions() {
                 Math.sin(scrollTopValue + 4)];
 
   for (var i = 0; i < length; i++) {
-    //var phase = Math.sin(scrollTopValue + j);
     moverItems[i].style.left = moverItems[i].basicLeft + 100 * phase[j++] + 'px';  
     if (j===5) {
       j = 0;

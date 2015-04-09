@@ -1,0 +1,8 @@
+references
+https://www.youtube.com/watch?v=JisSc5eGP5o
+https://github.com/udacity/fend-office-hours/tree/master/Web%20Optimization/Effective%20Optimizations%20for%2060%20FPS
+http://discussions.udacity.com/t/stuck-on-pizza-need-help-with-rps-and-resize-pizza/14719/4
+https://www.erianna.com/using-grunt-to-minify-and-compress-assets
+http://thejackalofjavascript.com/grunt-js-tutorial/
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization#tools-and-parameter-tuning
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching#defining-optimal-cache-control-policy
